@@ -4,6 +4,13 @@ loop that needs to be executed a specific number of times. A for loop is useful 
 you know how many times a task is to be repeated.
 
 
+The pros of foreach is very convenient,and It makes the code more readable.
+while the cons is cannot process two decision-making statements at once.
+And for the pros of for loop is able to execute blocks of code over and over again. 
+The advantage to a for loop is we know exactly how many times the loop will execute before the loop starts.
+And the cons is you cannot skip any element as the concept of index is not there.
+
+
 1- forEach keeps the variable's scope to the block
 2- Lower chance of accidental errors with forEach
 3- forEach is easier to read
