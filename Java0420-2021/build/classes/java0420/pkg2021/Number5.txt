@@ -1,0 +1,10 @@
+The " for-each " loop, which is used exclusively to loop through elements in an array.
+A for loop is a repetition control structure that allows you to efficiently write a 
+loop that needs to be executed a specific number of times. A for loop is useful when 
+you know how many times a task is to be repeated.
+
+
+1- forEach keeps the variable's scope to the block
+2- Lower chance of accidental errors with forEach
+3- forEach is easier to read
+4- You can break out of a for loop earlier

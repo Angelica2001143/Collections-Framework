@@ -1,0 +1,4 @@
+Why should we opt for isEmpty() over size?
+-Because it is more expressive (the code is easier to read and to maintain)
+-The isEmpty() method checks whether a string is empty or not. 
+This method returns true if the string is empty (length() is 0), and false if not.
