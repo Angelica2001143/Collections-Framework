@@ -25,7 +25,7 @@ public class Number8 {
            }
        }
   
-       System.out.println("Count map data that has a key starts with name: " +counter);
+      System.out.println("Keys that starts with name: " +counter);
       
    }
 }
